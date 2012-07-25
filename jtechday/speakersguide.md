@@ -17,6 +17,7 @@ Following are some helpful guidelines for speakers to keep in mind when submitti
 ### Speaker's Personal Bio
 
 * Some points to focus are Name, Claim to Fame, Important Accomplishment, Contact Information
+* Do not use bullets try to narrate it in third person
 * Always write in 3rd person.
 * Bring clear picture of your skill, experience, passion and achievement.
 * Keep it 750 characters max.
@@ -39,12 +40,12 @@ Following are some helpful guidelines for speakers to keep in mind when submitti
 
 ### Some useful Links
 
-* The Seven Deadly Sins of Powerpoint Presentations
-* Presenting With Powerpoint: 10 Dos And Don'ts
-* Tips for Presenting at a Java Conference (via JavaOne)
-* YouTube - Guy Kawasaki 10-20-30 Presentation Rule ** (video)
-* Presentation Skills & Communication Training (video)
-* Effective Presentation Skills: Pausing and Speaking Pace (video)
+* [The Seven Deadly Sins of Powerpoint Presentations](http://entrepreneurs.about.com/cs/marketing/a/7sinsofppt.htm)
+* [Presenting With Powerpoint: 10 Dos And Don'ts](http://www.microsoft.com/smallbusiness/resources/technology/business-software/presenting-with-powerpoint-10-dos-and-donts.aspx)
+* [Tips for Presenting at a Java Conference](http://java.sun.com/javaone/sf/speaker_resources/pdfs/2009_Sun_JavaOne_Tips_for_Presenting.pdf) (via JavaOne)
+* [YouTube - Guy Kawasaki 10-20-30 Presentation Rule](http://www.youtube.com/watch?v=liQLdRk0Ziw&feature=related) (video)
+* [Presentation Skills & Communication Training](http://www.youtube.com/watch?v=JUwhB3lZvGE) (video)
+* [Effective Presentation Skills: Pausing and Speaking Pace](http://www.youtube.com/watch?v=AWbkAboFsTQ) (video)
 
 
 
