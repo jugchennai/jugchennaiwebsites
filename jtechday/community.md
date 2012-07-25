@@ -8,7 +8,7 @@ description: ""
 
 This event is organized and contributed by JUGChennai Chennai Java Community
 
-Java User Group - Chennai. An effort to bring all Java enthusiast in and around Chennai. We strive to create a platform for all levels of expertise and bring out their skills in Java related technology to promote, collaborate, share and learn from each other. This is a volunteer,community-driven group strive to help and discuss about the java ecosystem, the back bone of this community are the members and its sponsors.
+Java User Group - Chennai. An effort to bring all Java enthusiast in and around Chennai. We strive to create a platform for all levels of expertise and bring out their skills in Java related technology to promote, collaborate, share and learn from each other. This is a volunteer, community-driven group strive to help and discuss about the Java ecosystem, the back bone of this community are the members and its sponsors.
 
 Our members meet monthly (mostly 2nd Saturday) at the sponsor's meet up venue and discuss, share, debate on various Java related technology. This being a part of International JUG community, we receive periodic opportunity of inviting experts in various field to speak in our JUG events.
 
