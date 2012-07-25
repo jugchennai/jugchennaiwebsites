@@ -5,8 +5,9 @@ title: JTechDay '12
 
 Welcome to *JUGChennai JTechDay*
 
-*JTechDay* is a one day JavaTech conference. A day for explore different aspects of Java technology from Java language to Java devices!!
-The conference mainly focussed on Java Technology in various areas like JavaSE, Desktop, JavaEE, JME, Mobile, Cloud, SOA, Rich Applications etc.
+*JTechDay* is a one day JavaTech conference. A day to explore different aspects of Java technology from Java language to Java devices!!
+
+The conference mainly focused on Java Technology in various areas like JavaSE, Desktop, JavaEE, JME, Mobile, Cloud, SOA, Rich Applications etc.
 
 This event is free and open for everyone to attend. Feel free to invite your friends and colleague.
 
@@ -27,7 +28,7 @@ We have 2 college students giving talk on Scala Akka and JDK 7.
 
 ### Hands-on Labs
 * Scala - A primary hands on event. (2 hours ) - Limited
-* Custom Android - Session with handson. ( 1 hours ) - open for all
+* Custom Android Views - Session with hands on. ( 1 hours ) - open for all
 
 ### Open Source Projects/Contribution
 This session focus on members to showcase their project or their contribution in any others Open Source project.
