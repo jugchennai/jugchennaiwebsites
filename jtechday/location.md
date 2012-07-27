@@ -8,9 +8,9 @@ description: ""
 Date: 15-Sep-2012 from 9AM to 6PM
 
 
-Location:
-![VELS University](http://jugchennai.in/chennaijavasummit/images/Vels-Univ-Logo.png "")
-Velan Nagar, P.V.Vaithiyalingam Road<br/>
+Location:<br/><br/>
+<img src="http://jugchennai.in/chennaijavasummit/images/Vels-Univ-Logo.png" alt="" align="left">
+<br/><br/><br/><br/>Velan Nagar, P.V.Vaithiyalingam Road<br/>
 Pallavaram, Chennai 600117
 
 
