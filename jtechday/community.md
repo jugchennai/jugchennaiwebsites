@@ -12,6 +12,27 @@ Java User Group - Chennai. An effort to bring all Java enthusiast in and around 
 
 Our members meet monthly (mostly 2nd Saturday) at the sponsor's meet up venue and discuss, share, debate on various Java related technology. This being a part of International JUG community, we receive periodic opportunity of inviting experts in various field to speak in our JUG events.
 
+
+<table border=0 style="background-color: #fff; padding: 5px;" cellspacing=0>
+  <tr><td>
+  <img src="http://groups.google.com/intl/en/images/logos/groups_logo_sm.gif"
+         height=30 width=140 alt="Google Groups">
+  </td></tr>
+  <tr><td style="padding-left: 5px">
+  <b>Subscribe to Java User Group - Chennai</b>
+  </td></tr>
+  <form action="http://groups.google.com/group/jug-c/boxsubscribe">
+  <tr><td style="padding-left: 5px;">
+  Email: <input type=text name=email>
+  <input type=submit name="sub" value="Subscribe">
+  </td></tr>
+</form>
+<tr><td align=right>
+  <a href="http://groups.google.com/group/jug-c">Visit this group</a>
+</td></tr>
+</table>
+(Only for people in or around Chennai)
+
 Some Photos and Videos from past event. 
 
 
