@@ -27,10 +27,9 @@ description: ""
 ***
 <img src="assets/images/speakers/arivu.png" class="float: right" />*Arivazhagan* has been a Data Analyst since 2011. He is working for First Source Solutions as Data Analyst.He is a active user in Java user group chennai. He is contributing to VisageFX. He is interested in JEE, JavaFX, VisageFX, HTML5 and JavaScript.
 
-### Gautham Kumar
+### Gautam Kumar
 ***
-<img src="assets/images/speakers/Gautam.jpg" class="float: right" />*Gautam* is a recent graduate working his favorite Languages are Java and Python 
-and is seen mostly playing around with various frameworks. He frequents JUG-Chennai and occasionally presents a few topics
+<img src="assets/images/speakers/Gautam.jpg" class="float: right" />*Gautam* is a recent graduate, his favorite Languages are Java and Python and is seen mostly playing around with various frameworks. He frequents JUG-Chennai and frequently presents a few topics
 
 ### Rajmahendra Hegde
 ***
