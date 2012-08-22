@@ -23,6 +23,19 @@ Most client applications today are browser based and use HTML CSS Javascript. Ho
 
 This session will deep dive into JavaFX starting with a look at the history of JavaFX before and after Oracle acquisition.It will look at the features and benefits of JavaFX,  what is FXML and SceneBuilder and using  JavaFX with other languages.
 
+###Scala Hands-on Lab
+***
+This handson session is for Scala a Object Functional JVM language.The session walks through step-by-step of the fundementals and using mixture of OO and Functional aspects of Scala. Attendees can code alongside as we walkthrough the slides.By the end of the session people can get started with coding and build apps API's etc.
+
+_As a prerequestite you are required to get ready with your laptop with Eclipse 3.6 with scalaIDE (a plugin for Eclipse) installed._
+
+
+###  Context and Dependency Injection (CDI) in JEE6
+***
+CDI is new addition in JEE6, an emerging standard for dependency injection (DI) and interception (AOP). It is evident from the popularity of DI and AOP that Java needs to address DI and AOP so that it can build other standards on top of it. DI and AOP are the foundation of many Java frameworks.The annotation driven programming of CDI makes it easy to build dependent objects easy and extensible.
+
+The session takes a tour of varous features of CDI, the annotations and its various aspects with more real life examples. This gives audience a better idea of the usage in developing JEE6 applications.
+
 ### Android CustomViews
 ***
 This hands on will introduce attendees to the concept of building custom android view components.The session will go into the depths of creating the view based on existing views, and reacting to events. At the end of this session attendees will be able build views only limited by their imagination.
