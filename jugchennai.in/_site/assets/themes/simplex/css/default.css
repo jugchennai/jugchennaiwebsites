@@ -1,0 +1,13 @@
+body{
+    margin-top:50px;
+}
+
+/* Overriding twitter bootstrap */
+
+.navbar .brand{
+color: #E9E9E9;
+text-shadow: 0px 0px 5px #5BE626;
+}
+.navbar .brand :hover{
+    
+}
